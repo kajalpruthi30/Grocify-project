@@ -1,0 +1,80 @@
+.content-page{
+    margin: 40px 80px;
+    width: 70%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+    padding: 0 20px;
+}
+
+.heading h1{
+    font-size: 24px;
+    line-height: 40px;
+    font-family: 'Gorditas', sans-serif;
+}
+
+.heading p{
+   color: rgb(99, 96, 96);
+   letter-spacing: 0.8px;
+}
+
+
+.section{
+    border: 1px solid #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    width:85%;
+    margin: 25px;
+}
+
+
+.section1-label{
+    font-size: 20px;
+    letter-spacing: 1.1px;
+    font-weight: 700;
+}
+
+
+.container{
+    display: flex;
+    margin: 25px 0;
+}
+
+.icon{
+    flex-basis: 6%;
+    display: flex;
+    align-items: center;
+}
+
+.container-content{
+    flex-basis: 86%;
+}
+
+
+.arrow-btn{
+    flex-basis: 7%;
+}
+
+.content-heading{
+    font-size: 16px;
+    letter-spacing: 0.8px;
+    line-height: 22px;
+    font-weight: 550;
+}
+
+.content-description{
+    color: rgb(99, 96, 96);
+    font-size: 14px;
+    letter-spacing: 1px;
+}
+
+
+
+/* rgb - 135, 192, 83 */
+/* #87C053  */
+
+/* .section{
+    margin: 20px 30px;
+} */

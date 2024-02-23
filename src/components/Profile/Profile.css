@@ -1,0 +1,30 @@
+.profile-section{
+    margin-top: 50px;
+}
+
+.profile-section .content-heading{
+    letter-spacing: 0;
+}
+
+/* Guide Content */
+
+.guide-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.guide-content .content-description{
+    font-size: 16px;
+    letter-spacing: 0;
+}
+
+.validate-btn{
+    padding: 9px 32px;
+    border-radius: 5px;
+    font-size: 14px;
+    color: #fff;
+    border: none;
+    background: rgb(35, 192, 83);
+    margin-right: 25px;
+}

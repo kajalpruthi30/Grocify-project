@@ -1,0 +1,96 @@
+.shop-page{
+    margin: 40px 80px;
+    font-family: 'Montserrat', sans-serif;
+    width: 70%;
+}
+
+
+.shop-details-div{
+    padding: 10px 20px;
+    width:85%;
+    margin: 25px 0;
+}
+
+
+.image-section{
+    width: 100%;
+}
+
+.image-section img{
+    width: 100%;
+    border-radius: 20px;
+    height: 50vh;
+}
+
+.img-content-description{
+    display: flex;
+}
+
+.img-area{
+    flex-basis: 70%;
+}
+
+
+.img-area img{
+    border-radius: 20px;
+    height: 25vh;
+    width: 35vh;
+}
+
+.content-description .edit-profile-heading{
+    color: black;
+    font-size: 18px;
+    letter-spacing: 0.5;
+    line-height: 30px;
+}
+
+
+/* Section 3 */
+
+
+.shop-section{
+    border: 1px solid #fff;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+    padding: 10px 20px 0 20px;
+    width:85%;
+    margin: 40px 40px 40px 20px;
+}
+
+.shop-container{
+    display: flex;
+    margin: 25px 0;
+}
+
+.shop-container .content-heading{
+    font-size: 16px;
+    letter-spacing: 0.5px;
+}
+
+/* Shop - Section - 1 */
+.shop-section-1{
+    padding: 0 20px 0 20px;
+}
+
+
+/* Shop - Section - 2 starts from here */
+
+.label-add-details{
+    font-size: 20px;
+    letter-spacing: 0.3px;
+    font-weight: 700;
+}
+
+.shop-section-2{
+    padding-top: 30px;
+}
+
+.shop-container .content-description{
+    padding-left: 2px;
+}
+
+
+/* Section - 3 and section - 4 */
+.shop-section-3{
+    box-shadow: none;
+}

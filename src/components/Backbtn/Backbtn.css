@@ -1,0 +1,19 @@
+.backbtn{
+    position: absolute;
+    top: 4.6%;
+    left: 22%;
+    border-radius: 50%;
+    background: rgb(35, 192, 83);
+    height: 38px;
+    width: 38px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.backbtn img{
+    height: 30px;
+    padding-top: 3px;
+}
