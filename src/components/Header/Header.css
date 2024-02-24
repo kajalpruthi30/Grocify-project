@@ -1,0 +1,45 @@
+.header{
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgb(196, 192, 192);
+    border-right: none;
+    border-left: none;
+}
+
+
+/* Header Component - 1 on left side */
+.header-component-1{
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 15%;
+}
+
+.heading p{
+    font-size: 20px;
+    font-weight: 550;
+    color: rgb(35, 192, 83);
+}
+
+
+/* Header Component - 2 on right side */
+
+.header-component-2{
+    display: flex;
+    flex-basis: 20%;
+    justify-content: space-around;
+}
+
+.user-name p{
+    color: rgb(117, 114, 114);
+}
+
+.component-2-content{
+    display: flex;
+    gap: 10px;
+}
+
+
+.drop-down img{
+    height: 12px;
+}
